@@ -1,5 +1,5 @@
-# TWSP
-Time-windowed Similarity Plugin
+# SWCF
+Sequential Windowed-similarity Collaborative Filtering Plugin
 
 Anyone who want to use this plugin to import GCN-based Recommender System can do as the following:
 1. download the file and put it to your project directory
